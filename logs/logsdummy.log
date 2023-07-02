@@ -1,0 +1,30 @@
+test_ticket started  : 2023-07-02 14:47:12,395 : Test_BuyTicket : test_ticket : 36
+opening url : 2023-07-02 14:47:12,396 : Test_BuyTicket : test_ticket : 38
+clicking on buy ticket button : 2023-07-02 14:47:19,494 : Test_BuyTicket : test_ticket : 43
+enter first_name : 2023-07-02 14:47:26,431 : Test_BuyTicket : test_ticket : 46
+enter last_name : 2023-07-02 14:47:26,587 : Test_BuyTicket : test_ticket : 48
+month selecting : 2023-07-02 14:47:26,930 : Test_BuyTicket : test_ticket : 51
+year selecting : 2023-07-02 14:47:27,228 : Test_BuyTicket : test_ticket : 53
+date selecting : 2023-07-02 14:47:28,784 : Test_BuyTicket : test_ticket : 55
+gender selecting  : 2023-07-02 14:47:29,080 : Test_BuyTicket : test_ticket : 57
+trip type selecting : 2023-07-02 14:47:29,227 : Test_BuyTicket : test_ticket : 59
+entering from city  : 2023-07-02 14:47:29,349 : Test_BuyTicket : test_ticket : 61
+entering to city  : 2023-07-02 14:47:29,509 : Test_BuyTicket : test_ticket : 63
+entering dept date : 2023-07-02 14:47:29,607 : Test_BuyTicket : test_ticket : 65
+entering  phone number  : 2023-07-02 14:47:30,070 : Test_BuyTicket : test_ticket : 70
+entering emaile : 2023-07-02 14:47:30,217 : Test_BuyTicket : test_ticket : 72
+country selecting : 2023-07-02 14:47:30,375 : Test_BuyTicket : test_ticket : 75
+entering address : 2023-07-02 14:47:30,652 : Test_BuyTicket : test_ticket : 77
+entering city : 2023-07-02 14:47:30,795 : Test_BuyTicket : test_ticket : 79
+selecting state : 2023-07-02 14:47:30,921 : Test_BuyTicket : test_ticket : 81
+entering pincode : 2023-07-02 14:47:31,287 : Test_BuyTicket : test_ticket : 83
+placing order : 2023-07-02 14:47:31,408 : Test_BuyTicket : test_ticket : 85
+opening payment page : 2023-07-02 14:47:31,545 : Test_BuyTicket : test_ticket : 87
+entering card number : 2023-07-02 14:47:31,546 : Test_BuyTicket : test_ticket : 89
+entering card expire date : 2023-07-02 14:47:39,772 : Test_BuyTicket : test_ticket : 94
+entering cvv  : 2023-07-02 14:47:39,843 : Test_BuyTicket : test_ticket : 96
+entering card owner name  : 2023-07-02 14:47:40,320 : Test_BuyTicket : test_ticket : 98
+clicking on  proceed button  : 2023-07-02 14:47:40,431 : Test_BuyTicket : test_ticket : 100
+clicking on dont save card details button : 2023-07-02 14:47:40,514 : Test_BuyTicket : test_ticket : 102
+verifying test  : 2023-07-02 14:47:42,614 : Test_BuyTicket : test_ticket : 108
+test is passed : 2023-07-02 14:47:43,275 : Test_BuyTicket : test_ticket : 111
